@@ -2,7 +2,7 @@ body {
   margin: 1em;
   padding: 0;
   font-family: Google Sans, Noto, Roboto, Helvetica Neue, sans-serif;
-  color: #244376;
+  color: #000000;
 }
 
 
@@ -19,7 +19,7 @@ body {
 model-viewer {
   width: 100%;
   height: 400px;
-  background-color: #7dc2e0;
+  background-color: #1c1c1c;
   --poster-color: #ffffff00;
 }
 
